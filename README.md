@@ -1,6 +1,6 @@
 # OCR工具介绍
 
-此工具为使用[通用文字识别](https://ai.baidu.com/tech/ocr/general)接口实现的文字识别工具。
+此工具为使用百度的[通用文字识别](https://ai.baidu.com/tech/ocr/general)接口实现的文字识别工具。
 
 ## 使用方法
 
